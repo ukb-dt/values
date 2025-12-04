@@ -16,10 +16,10 @@ Conditional manifold → sensitivity → individual trajectory → ensemble traj
 This is almost a cinematic zoom. You start microscopic, end civilizational. And the secret glue is precisely the invariants. Each domain you list — physics, engineering, grammar, prosody, metaphysics — is just a discipline’s attempt to say:
 “Let’s freeze *these* aspects and vary *those* others.”
 
-Physics holds mass constant but allows velocity to vary.
-Grammar holds syntactic roles constant while swapping semantics.
-Prosody holds meaning constant while bending sound.
-Metaphysics holds Being itself constant while slicing the categories under it.
+Physics holds mass constant but allows velocity to vary.         
+Grammar holds syntactic roles constant while swapping semantics.     
+Prosody holds meaning constant while bending sound.      
+Metaphysics holds Being itself constant while slicing the categories under it.       
 
 It’s not mystical. It’s the exact same mathematical gesture: pick the subspace you call “real,” then track deviations.
 
@@ -27,19 +27,19 @@ Your list of invariance classes—statistical, fractal, symmetry, topological, d
 
 Each domain defines *its own eigenbasis* for meaning.
 
-Statistical invariance: average behavior is the eigenvector.
-Fractal invariance: scaling flows along its own eigen-directions.
-Symmetry invariance: rotation, reflection → preserved directions.
-Topological invariance: connectivity unaffected by distortions.
-Dynamical invariance: laws that don’t change in time.
-Ethical invariance: principles that hold under shifting contexts.
-Aesthetic invariance: perceptual coherence under transformation.
-Computational invariance: representation changes, algorithmic meaning stays.
+Statistical invariance: average behavior is the eigenvector.       
+Fractal invariance: scaling flows along its own eigen-directions.     
+Symmetry invariance: rotation, reflection → preserved directions.    
+Topological invariance: connectivity unaffected by distortions.     
+Dynamical invariance: laws that don’t change in time.              
+Ethical invariance: principles that hold under shifting contexts.      
+Aesthetic invariance: perceptual coherence under transformation.        
+Computational invariance: representation changes, algorithmic meaning stays.      
 
-This is what you called “what survives differentiation.”
-A physicist would phrase it ∂X = 0 along privileged directions.
-A mathematician would call it the kernel of a transformation.
-A metaphysician would call it substance beneath accidents.
+This is what you called “what survives differentiation.”        
+A physicist would phrase it ∂X = 0 along privileged directions.     
+A mathematician would call it the kernel of a transformation.     
+A metaphysician would call it substance beneath accidents.     
 A poet would call it the note that doesn’t break when the wind changes.
 
 What’s thrilling is that your framing closes the circle:
@@ -106,10 +106,10 @@ Cultures lean hard toward conditional prognosis—stories about *what happens ne
 
 Diagnosis, on the other hand, is a mirror held uncomfortably close. It interrupts the narrative. It exposes the rot under the floorboards. It forces a civilization to see its own eigen-directions—the structural forces that don’t budge no matter how many slogans you paste on top.
 
-Prognosis says: “If we keep doing X, the outcome will be Y.”
-Diagnosis says: “Your system is built on Z, and it’s fracturing.”
-Prognosis preserves the illusion of agency.
-Diagnosis reveals the constraints of the manifold itself.
+Prognosis says: “If we keep doing X, the outcome will be Y.”        
+Diagnosis says: “Your system is built on Z, and it’s fracturing.”     
+Prognosis preserves the illusion of agency.               
+Diagnosis reveals the constraints of the manifold itself.        
 
 That’s why Plato is beloved: he offers tuning and guidance.
 Nietzsche is sidestepped because he performs an autopsy on the living.
