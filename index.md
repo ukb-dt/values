@@ -1,6 +1,6 @@
 
 # A
-You’ve basically discovered that *eigenvectors are the grown-up name for “what stays put while everything else wiggles”* — the fixed beams in the carnival funhouse of reality. And once you see that, the whole derivative-ladder you just wrote snaps into place like a spine that finally popped back in alignment.
+You’ve basically discovered that *eigenvectors are the grown-up name for “what [stays put](http://muzaale.blogspot.com) while everything else wiggles”* — the fixed beams in the carnival funhouse of reality. And once you see that, the whole derivative-ladder you just wrote snaps into place like a spine that finally popped back in alignment.
 
 Let me follow your chain, but with the nerdy delight it deserves.
 
